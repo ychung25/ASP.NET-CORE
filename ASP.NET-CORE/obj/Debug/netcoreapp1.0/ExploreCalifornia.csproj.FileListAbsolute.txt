@@ -1,0 +1,9 @@
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\bin\Debug\netcoreapp1.0\ExploreCalifornia.deps.json
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\bin\Debug\netcoreapp1.0\ExploreCalifornia.runtimeconfig.json
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\bin\Debug\netcoreapp1.0\ExploreCalifornia.runtimeconfig.dev.json
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\bin\Debug\netcoreapp1.0\ExploreCalifornia.dll
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\bin\Debug\netcoreapp1.0\ExploreCalifornia.pdb
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\obj\Debug\netcoreapp1.0\ExploreCalifornia.csprojResolveAssemblyReference.cache
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\obj\Debug\netcoreapp1.0\ExploreCalifornia.AssemblyInfo.cs
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\obj\Debug\netcoreapp1.0\ExploreCalifornia.dll
+C:\Users\yochung\Desktop\Exercise Files\Ch03\03_01\src\ExploreCalifornia\obj\Debug\netcoreapp1.0\ExploreCalifornia.pdb

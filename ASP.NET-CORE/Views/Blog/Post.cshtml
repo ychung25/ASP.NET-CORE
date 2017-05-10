@@ -1,0 +1,22 @@
+﻿@{ 
+    Layout = "_Layout";
+}
+
+@model ExploreCalifornia.Models.Post
+@inject ExploreCalifornia.Models.SpecialsDataContext SDC
+
+@Html.Partial("_Post")
+
+@{ 
+    var specials = SDC.GetMonthlySpecials();
+    foreach(var special in specials)
+    {
+        <p>@special.Name</p>
+    }
+
+    var person = new ExploreCalifornia.Models.Person();
+    person.Name = "Yongik";
+    person.Age = 33;
+    <p>@person.Name</p>
+    <p>@person.Age</p>
+}
